@@ -72,7 +72,7 @@ hr{
 /* landing */
 .landing{
     width: 100%;
-    background-image: url(img/as.jpeg);
+    background-image: url(/img/as.jpeg);
     background-position: center;
     /* background-repeat: no-repeat; */
     overflow: hidden;

@@ -1,6 +1,6 @@
 {
-    "short_name": "FactSilat",
     "name": "FactSilat: fakta tentang pencaksilat",
+    "short_name": "FactSilat",
     "lang": "id,in",
     "description": "Ketahui Fakta Seputar Pencaksilat Bersama FactSilat",
     "start_url": "/index.html",
