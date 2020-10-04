@@ -1,0 +1,115 @@
+
+html{
+    font-size: 18px;
+    color: #DD614A;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #FFDC7C;
+}
+footer{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+/* halaman category */
+.indent{
+    text-indent: 1.5em;
+}
+.indent img{
+    margin-top: 3.5em;
+    border-radius: 1em;
+}
+
+.indent p{
+    margin-bottom: 35px;
+}
+.indent h2{
+    text-align: center;
+}
+.container{
+    box-sizing: border-box;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    line-height: 2rem;
+}
+h3{
+    font-size: 2rem;   
+    font-family: 'Lato', sans-serif; 
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+}
+h5{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+h1{
+    font-size: 3rem;
+}
+.gmbr img{
+    margin-top: 18px;
+    border-radius: 1em;
+}
+.gmbr .col{
+    border-radius: 1em;
+    margin: 10px 0px;
+    background-color: #FF9B71;
+}
+.row{
+    box-sizing: border-box;
+
+}
+hr{
+    color: red;
+    border: none;
+    height: 1.2px;
+    display: block;
+    background-color: red;
+}
+/* landing */
+.landing{
+    width: 100%;
+    background-image: url(/img/as.jpeg);
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    overflow: hidden;
+    background-size: cover;
+}
+.landing h1{
+    color: #DD614A;
+    text-shadow: 0 0 15px white;
+}
+.landing .judul{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: auto;
+    height: auto;
+    margin-top: 20px;
+    background-color: #e4fde1ec;
+    padding: 2px;
+    border-radius: 1em;
+}
+/* navigator */
+ .nav-top a{
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    background-color: black;
+    padding: 5px;
+}
+ .nav-bot a{
+    position: fixed;
+    bottom: 4rem;
+    right: 1rem;
+    background-color: black;
+    padding: 5px;
+}
+
+/* footer */
+footer{
+    background-color: #DD614A;
+}
