@@ -23,7 +23,7 @@ var urlsToCache = [
 	'/css/materialize.min.css',
 	'/css/style.css',
 	'/js/materialize.min.js',
-	'/img/as.jpeg',
+	'/img/as.jpg',
 	'/img/asad.jpg',
 	'/img/mp.jpg',
 	'/img/perisaidiri.jpg',
