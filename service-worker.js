@@ -1,4 +1,4 @@
-const CACHE_NAME = 'firstpwa-v8';
+const CACHE_NAME = 'firstpwa-v10';
 var urlsToCache = [
 	'/',
 	'https://fonts.googleapis.com/icon?family=Material+Icons',
@@ -9,7 +9,6 @@ var urlsToCache = [
 	'https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2',
 	'https://fonts.gstatic.com/s/materialicons/v55/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2',
 	'/manifest.json',
-	'/img/apple-icon-144x144-dunplab-manifest-14704.png',
 	'https://fonts.gstatic.com/s/lato/v17/S6uyw4BMUTPHjx4wXiWtFCc.woff2',
 	'/favicon-16x16.png',
 	'/favicon-32x32.png',
@@ -33,6 +32,19 @@ var urlsToCache = [
 	'/img/pstd.jpg',
 	'/img/smi.jpg',
 	'/img/ts.jpg',
+	'/img/icon-512-512.png',
+	'/img/apple-icon-144x144-dunplab-manifest-14704.png',
+	'/img/apple-icon-120x120-dunplab-manifest-14704.png',
+	'/img/apple-icon-152x152-dunplab-manifest-14704.png',
+	'/img/apple-icon-180x180-dunplab-manifest-14704.png',
+	'/img/apple-icon-57x57-dunplab-manifest-14704.png',
+	'/img/apple-icon-60x60-dunplab-manifest-14704.png',
+	'/img/apple-icon-72x72-dunplab-manifest-14704.png',
+	'/img/apple-icon-76x76-dunplab-manifest-14704.png',
+	'/img/favicon-16x16-dunplab-manifest-14704.png',
+	'/img/favicon-32x32-dunplab-manifest-14704.png',
+	'/img/favicon-96x96-dunplab-manifest-14704.png',
+	'/img/favicon.ico',
     '/js/script.js'
     
 ];
