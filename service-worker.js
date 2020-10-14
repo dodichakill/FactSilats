@@ -1,5 +1,5 @@
-const CACHE_NAME = 'firstpwa-v10';
-var urlsToCache = [
+const CACHE_NAME = 'firstpwa-v11';
+const urlsToCache = [
 	'/',
 	'https://fonts.googleapis.com/icon?family=Material+Icons',
 	'https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2',
@@ -45,7 +45,8 @@ var urlsToCache = [
 	'/img/favicon-32x32-dunplab-manifest-14704.png',
 	'/img/favicon-96x96-dunplab-manifest-14704.png',
 	'/img/favicon.ico',
-    '/js/script.js'
+	'/js/script.js',
+	'/js/sw-register.js'
     
 ];
 
